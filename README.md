@@ -2,9 +2,7 @@
 
 ## Intro
 
-In my newsletter titled 'R&D Newsletter: Swapping atomically' sent on March, 9th 2023, we tackled
-the technical concept of atomic swaps.  
-We will elaborate in this newsletter the business advantages of swapping atomically on-chain.  
+In this short article, we will talk about the business advantages of swapping atomically on-chain.  
 
 ## It all started with a big bang
 The crypto industry is [largely centralised](https://coinmarketcap.com/rankings/exchanges/) and with the 
