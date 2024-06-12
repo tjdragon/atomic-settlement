@@ -23,7 +23,7 @@ Atomic Settlement has several properties that would solve settlement in a trustl
 - Assets never leave the customers wallets (until settlement time).
 - Exchanges are given a trading limit requiring only one control on their side: withdrawal from wallets are contingent to the settlement notional required.
 - The atomic settlement requires a smart contract invoked by parties involved in a trade (with optionally the exchange).
-- The swap requires two on-chain calls by the customer: an ERC20 approve and the [smart contract call](https://tjdragon.github.io/zm-stl.github.io/) with the trade details.
+- The swap requires two on-chain calls by the customer: an ERC20 approve and the smart contract call with the trade details.
 - Assets are swapped atomically on-chain when both trade details match: both legs succeed or fail at the same time!
 - Non-native assets (i.e. non ERC20s like DAI or USDC/T) can have a synthetic representation (IOU) with a qualified custodian holding the assets.
 
